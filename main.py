@@ -10,6 +10,8 @@ def to_config_value(value: Any) -> str:
     if isinstance(value, (int, float)):
         return str(value)
     elif isinstance(value, str):
+        if value.startswith('|') and value.endswith('|'):
+            return str(evaluate_expression(value))
         return f"[[{value}]]"
     elif isinstance(value, dict):
         return "{\n" + "\n".join(
