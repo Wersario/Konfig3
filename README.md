@@ -71,7 +71,20 @@ python main.py --input input.json --output output.config
 python -m unittest test.py
 ```
 ## Результаты тестов
+![image](https://github.com/user-attachments/assets/70d35db5-332a-47a0-b829-bff0780c4948)
 
 ## Примеры работы
+### Первый пример
+![image](https://github.com/user-attachments/assets/81e1a66e-349e-4b4a-9103-4da367c7e43d)
+![image](https://github.com/user-attachments/assets/0aa1320d-2b38-4783-9e71-6cc960ed71b5)
+### Второй пример
+![image](https://github.com/user-attachments/assets/8942c7e9-29a0-473e-a2fc-53f4bca2a3ed)
+![image](https://github.com/user-attachments/assets/324262b6-c359-4bef-9269-e733914fc6f2)
+### Третий пример
+![image](https://github.com/user-attachments/assets/b03e3df8-331e-45f6-8913-79ff9d94c38d)
+![image](https://github.com/user-attachments/assets/87325f18-6684-4ae5-ac24-c010cbfa08e2)
+
+
+
 
 
